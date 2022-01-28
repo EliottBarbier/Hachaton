@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ebarbier/hachaton/build",
+  "command": "/bin/c++   -I/home/ebarbier/hachaton/./includes -I/home/ebarbier/hachaton/includes  -g   -o CMakeFiles/hachaton.dir/main.cpp.o -c /home/ebarbier/hachaton/main.cpp",
+  "file": "/home/ebarbier/hachaton/main.cpp"
+}
+]
